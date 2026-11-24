@@ -102,4 +102,4 @@ Para manter os testes rápidos e controlados, utilizei listas pequenas contendo 
     └── senhas-lab.txt
 ```
 
-O detalhamento completo da análise está registrado em [`docs/relatorio-resultados.md`](docs/relatorio-resultados.md).
+O detalhamento completo da análise está registrado em [`docs/relatorio-resultados.md`](docs/relatorio-resultados).
