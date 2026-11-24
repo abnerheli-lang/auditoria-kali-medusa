@@ -1,0 +1,24 @@
+# Variaveis de ambiente e chaves locais
+.env
+*.env
+*.key
+*.pem
+*.p12
+secrets/
+
+# Capturas de pacote, logs e saidas temporarias
+*.pcap
+*.pcapng
+*.cap
+*.log
+medusa-*.txt
+nmap-*.txt
+cookies.txt
+history.txt
+raw/
+
+# Arquivos de sistema e IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
